@@ -1,0 +1,19 @@
+
+body {
+	text-align: center;
+	background-image: url(soda.jpg);
+	background-size: cover;
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+}
+
+#count {
+	background: linear-gradient(#d9edf7, #b9def0);
+	color: #31708f;
+	width: 10%;
+	margin: 15px auto;
+	border-radius: 5px;
+}
